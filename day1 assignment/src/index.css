@@ -1,0 +1,16 @@
+#make{
+    width:40%;
+    
+    border: 1px solid;
+    margin-left: 30%;
+    
+}
+button{
+    color: black;
+    background-color: aliceblue;
+    margin-left: 45%;
+}
+#logo{
+    width:20%;
+   margin: auto;
+}
